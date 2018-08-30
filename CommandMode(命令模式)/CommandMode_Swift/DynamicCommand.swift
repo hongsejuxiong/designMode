@@ -29,3 +29,4 @@ class DynamicCommand: CommandProtocol {
         return DynamicCommand(paramReceiver: paramReciever, paramBlock: paramBlock)
     }
 }
+

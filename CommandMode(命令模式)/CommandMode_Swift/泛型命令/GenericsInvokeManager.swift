@@ -53,10 +53,6 @@ class GenericsInvokeManager {
         self.commands.removeAll()
         
     }
-
-    
-
-    
     
 }
 

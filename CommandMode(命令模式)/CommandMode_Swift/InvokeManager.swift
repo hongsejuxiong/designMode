@@ -60,6 +60,4 @@ class InvokeManager {
         self.commands.removeAll()
     }
     
-    
-    
 }
